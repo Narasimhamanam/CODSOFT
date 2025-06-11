@@ -1,6 +1,6 @@
 *COMPANY*: CODSOFT
 
-*NAME*: NARASIMHA MANAM
+*NAME*: MANAM NARASIMHA
 
 *INTERN ID*: CS25RY53938
 
@@ -12,7 +12,7 @@ This is a basic web-based calculator built using **HTML**, **CSS**, and **JavaSc
 
 ## 🖥️ Preview
 
-![Calculator Screenshot](screenshot.png) <!-- You can replace this with an actual image of your calculator UI -->
+![Image](https://github.com/user-attachments/assets/ccb1c3dc-e8af-42d1-913a-f25f0abf7346)<!-- You can replace this with an actual image of your calculator UI -->
 
 
 ## 🚀 Features
